@@ -1,32 +1,36 @@
+
 # Anime API
 
-Modified api of [Gogoanime-api](https://github.com/riimuru/gogoanime-api)
+Modified API of [Gogoanime-api](https://github.com/riimuru/gogoanime-api)
 
 ### Installing
 
-Clone the Repository and run
-
+Clone the Repository and run:
 
 ```
-git clone https://github.com/kirixen/gogo-api.git
-cd gogo-api
+git clone https://github.com/PacaHat/paca-api.git
+cd paca-api
 npm install 
 ```
-start the server with the following command:
+
+Start the server with the following command:
+
 ```
 npm start
 ```
 
-Now the server is running on <a href="http://localhost:3000">http://localhost:3000</a>
+Now the server is running on [http://localhost:3000](http://localhost:3000)
 
 ### Render
-Host your own api on render using the button below.
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Kirixen/gogo-api)
+Host your own API on Render using the button below:
+
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/PacaHat/paca-api.git)
 
 ### Vercel
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fkirixen%gogo-api)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FPacaHat%2Fpaca-api.git)
 
-[![Join our Discord server!] (https://discord.gg/aVvqx77RGs)
+### Join our Discord Server
 
+[![Join our Discord server!](https://img.shields.io/badge/Discord-Join%20Now-7289DA?logo=discord)](https://discord.gg/aVvqx77RGs)
