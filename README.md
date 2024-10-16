@@ -8,7 +8,7 @@ Modified API of [Gogoanime-api](https://github.com/riimuru/gogoanime-api)
 Clone the Repository and run:
 
 ```
-git clone https://github.com/PacaHat/paca-api.git
+git clone https://github.com/PacaHat/anime-api.git
 cd paca-api
 npm install 
 ```
@@ -25,11 +25,11 @@ Now the server is running on [http://localhost:3000](http://localhost:3000)
 
 Host your own API on Render using the button below:
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/PacaHat/paca-api.git)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/PacaHat/anime-api.git)
 
 ### Vercel
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FPacaHat%2Fpaca-api.git)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FPacaHat%2Fanime-api.git)
 
 ### Join our Discord Server
 
